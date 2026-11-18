@@ -1,7 +1,5 @@
-# 🎓 Verificação de Diplomas com Blockchain — Guia de Estudos (Fase 1)
+# 🎓 Verificação de Diplomas com Blockchain
 
-> **Objetivo:** estudar a apresentação da disciplina **Elaborar Plano de Implementação de um Blockchain**, compreender a proposta do grupo e explicar o contrato inteligente em Solidity.  
-> **Foco especial:** 🎤 **descrição e contexto do problema** (slides **2 e 3** da apresentação).  
 > 🧩 **Estudo interativo:** abra [`index.html`](./index.html) no navegador para revisar com flashcards, perguntas e simulação da fala.
 
 [🎤 Minha fala](#-minha-parte-na-apresentação-prioridade-máxima) · [🧠 Visão geral](#-o-projeto-em-30-segundos) · [⛓️ Blockchain](#-como-a-solução-funciona) · [💻 Smart contract](#-entendendo-o-smart-contract-de-verdade) · [🧪 Remix](#-roteiro-para-demonstrar-no-remix-ide) · [❓ Perguntas](#-perguntas-de-professor-e-respostas) · [✅ Checklist](#-checklist-final-para-amanhã)
