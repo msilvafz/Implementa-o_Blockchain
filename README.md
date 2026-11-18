@@ -304,8 +304,6 @@ Registro compartilhado e protegido por mecanismos criptográficos e, conforme a 
 
 ## ❓ Perguntas e Respostas
 
-Tente responder **em voz alta** antes de abrir.
-
 <details><summary>1. Qual é exatamente o problema que vocês querem resolver?</summary>
 
 A falsificação/adulteração de diplomas e a conferência lenta, manual e burocrática de sua autenticidade por recrutadores, mantendo proteção de dados e respeito às exigências legais.
