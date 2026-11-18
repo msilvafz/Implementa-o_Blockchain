@@ -302,7 +302,7 @@ Registro compartilhado e protegido por mecanismos criptográficos e, conforme a 
 
 ---
 
-## ❓ Perguntas de professor e respostas
+## ❓ Perguntas e Respostas
 
 Tente responder **em voz alta** antes de abrir.
 
