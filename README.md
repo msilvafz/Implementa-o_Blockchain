@@ -30,8 +30,6 @@
 
 ---
 
-## 🎤 Minha parte na apresentação — PRIORIDADE MÁXIMA
-
 ### 🎯 Slide 2 — Descrição do problema
 
 **Ideias obrigatórias:**
