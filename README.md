@@ -1,12 +1,6 @@
 # 🎓 Verificação de Diplomas com Blockchain
 
-> 🧩 **Estudo interativo:** abra [`index.html`](./index.html) no navegador para revisar com flashcards, perguntas e simulação da fala.
-
-[🎤 Minha fala](#-minha-parte-na-apresentação-prioridade-máxima) · [🧠 Visão geral](#-o-projeto-em-30-segundos) · [⛓️ Blockchain](#-como-a-solução-funciona) · [💻 Smart contract](#-entendendo-o-smart-contract-de-verdade) · [🧪 Remix](#-roteiro-para-demonstrar-no-remix-ide) · [❓ Perguntas](#-perguntas-de-professor-e-respostas) · [✅ Checklist](#-checklist-final-para-amanhã)
-
 ---
-
-## 🧠 O projeto em 30 segundos
 
 **Problema:** diplomas podem ser falsificados/adulterados; a verificação feita por empregadores costuma depender de procedimentos manuais e contato com instituições de ensino, o que gera demora.
 
